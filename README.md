@@ -1,4 +1,4 @@
-# Ice-Translate---Projeto
+# Ice-Translate
 
 ## Stefano Scuderi
 ### Projeto Final CRN
