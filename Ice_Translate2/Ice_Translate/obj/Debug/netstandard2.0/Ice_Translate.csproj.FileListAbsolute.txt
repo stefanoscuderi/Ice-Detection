@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Ice_Translate\Ice_Translate\Ice_Translate\bin\Debug\netstandard2.0\Ice_Translate.deps.json
+C:\Users\Usuario\source\repos\Ice_Translate\Ice_Translate\Ice_Translate\bin\Debug\netstandard2.0\Ice_Translate.dll
+C:\Users\Usuario\source\repos\Ice_Translate\Ice_Translate\Ice_Translate\bin\Debug\netstandard2.0\ref\Ice_Translate.dll
+C:\Users\Usuario\source\repos\Ice_Translate\Ice_Translate\Ice_Translate\bin\Debug\netstandard2.0\Ice_Translate.pdb
+C:\Users\Usuario\source\repos\Ice_Translate\Ice_Translate\Ice_Translate\obj\Debug\netstandard2.0\Ice_Translate.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ice_Translate\Ice_Translate\Ice_Translate\obj\Debug\netstandard2.0\Ice_Translate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Ice_Translate\Ice_Translate\Ice_Translate\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\source\repos\Ice_Translate\Ice_Translate\Ice_Translate\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\source\repos\Ice_Translate\Ice_Translate\Ice_Translate\obj\Debug\netstandard2.0\Ice_Translate.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Ice_Translate\Ice_Translate\Ice_Translate\obj\Debug\netstandard2.0\Ice_Translate.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Ice_Translate\Ice_Translate\Ice_Translate\obj\Debug\netstandard2.0\Ice_Translate.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ice_Translate\Ice_Translate\Ice_Translate\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\source\repos\Ice_Translate\Ice_Translate\Ice_Translate\obj\Debug\netstandard2.0\Ice_Translate.dll
+C:\Users\Usuario\source\repos\Ice_Translate\Ice_Translate\Ice_Translate\obj\Debug\netstandard2.0\ref\Ice_Translate.dll
+C:\Users\Usuario\source\repos\Ice_Translate\Ice_Translate\Ice_Translate\obj\Debug\netstandard2.0\Ice_Translate.pdb

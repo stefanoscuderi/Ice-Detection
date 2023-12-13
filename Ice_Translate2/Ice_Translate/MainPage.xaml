@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ice_Translate.MainPage">
+
+     <StackLayout BackgroundColor="black">
+        <Image Source="penguinos.jpeg" Margin="150,0,150,-100"/>
+
+        <Frame CornerRadius="10" BackgroundColor="#222121" Padding="5" Margin="30,40,290,0">
+            <Label Text="Idioma" FontAttributes="Bold" TextColor="White"  Padding="0" />
+
+        </Frame>
+        <Entry Placeholder="Insira o texto aqui" x:Name="txtidioma" TextColor="White"
+ PlaceholderColor="White" BackgroundColor="#222121" FontAttributes="Bold" Margin="20,0,120,0"/>
+
+        <Button Text="Verificar" TextColor="white" FontSize="18" FontAttributes="Bold" Clicked="Traduzir"  BackgroundColor="#222121" Margin="120,30,100,0" />
+        <Frame CornerRadius="10" BackgroundColor="#222121" Padding="5" Margin="20,30,278,0">
+            <Label Text="Resultado" FontAttributes="Bold" TextColor="White"  Padding="0" />
+
+        </Frame>
+
+        <Frame CornerRadius="10" BackgroundColor="#222121" Padding="10,10,0,100" Margin="20,0,90,0">
+            <Label Text="Texto verificado" x:Name="txtverificado" TextColor="White" FontAttributes="Bold"/>
+        </Frame>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hvYsHkzuMEb/fhGrTRP3frp2AsdWhzEGwpKNVeHBtQ9ILgZI0X4agz+RZ1EgpznthOGXnkbanJDgbNWy9yKIvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Downloads\\Ice_Translate\\Ice_Translate\\Ice_Translate\\Ice_Translate.iOS\\Ice_Translate.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
