@@ -3,4 +3,4 @@
 ## Stefano Scuderi
 ### Projeto Final CRN
 
-Tradutor de linguagens.
+Detector de Idiomas.
