@@ -1,4 +1,4 @@
-# Ice-Translate
+# Ice-Detection
 
 ## Stefano Scuderi
 ### Projeto Final CRN
